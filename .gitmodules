@@ -1,0 +1,3 @@
+[submodule "GameUnity"]
+	path = GameUnity
+	url = git@github.com:nishiakwa/GameUnity.git
